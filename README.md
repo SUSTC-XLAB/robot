@@ -25,7 +25,8 @@
       某某  邮箱或者GITHUB ID   ， 项目分工 ，【时间-时间】
 ## 联系
     [NKXLAB](https://github.com/NKXLAB)
-    [Releases](/releases)
+    [南方科技大学-XLAB]QQ群：532614505
+    
 ### Change log ###
 
-[Releases](https://github.com/mrdoob/three.js/releases)
+[Releases](https://github.com/SUSTC-XLAB/robot//releases)
