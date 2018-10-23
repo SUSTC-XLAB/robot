@@ -26,3 +26,6 @@
 ## 联系
     [NKXLAB](https://github.com/NKXLAB)
     [Releases](/releases)
+### Change log ###
+
+[Releases](https://github.com/mrdoob/three.js/releases)
