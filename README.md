@@ -4,7 +4,8 @@
         【具有自主版权的项目效果图 或者 实物图】
 
 ## 设计文档
-    [参见](https://github.com/SUSTC-XLAB/robot/wiki)
+
+    [参见](https://github.com/SUSTC-XLAB/robot//wiki)
 
 ## 快速开始
      【项目资料的结构 和 项目资料、代码如何使用，至少指导用户完成一个实验】
