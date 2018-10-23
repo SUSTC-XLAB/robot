@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+##项目名称
+##项目简介
+        【150字内】
+        【具有自主版权的项目效果图 或者 实物图】
 
-You can use the [editor on GitHub](https://github.com/SUSTC-XLAB/robot/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##关键技术
+        （1)
+          (2)
 
-### Markdown
+##新颖和创造性
+        （1) 技术应用创新点
+          (2) 积极效果
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##应用场景和目标市场
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+##结构原理图和结构说明
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## 快速开始
+     【项目资料的结构 和 项目资料、代码如何使用，至少指导用户完成一个实验】
 
-**Bold** and _Italic_ and `Code` text
+## 项目组成员
+      某某  邮箱或者GITHUB ID   ， 项目分工 ，【时间-时间】
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+新颖性：【是指本技术不属于现有技术】
+创造性：【是指与现有技术相比，具有突出的实质性特点和显著的进步】
+实用性：【是指能够制造或者使用，并且能够产生积极效果】
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SUSTC-XLAB/robot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
